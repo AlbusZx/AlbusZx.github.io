@@ -1220,7 +1220,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8c8562;
+  background: #f60da4;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2724,7 +2724,7 @@ body {
   opacity: 0.85;
 }
 .site-brand-container {
-  background: url("/images/cebianlan.jpg");
+  background: url("/images/background.jpg");
   background-size: cover;
 }
 @media (max-width: 991px) {
