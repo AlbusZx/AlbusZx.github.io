@@ -1220,7 +1220,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4bffd7;
+  background: #ff71ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2720,7 +2720,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 100% 100%;
+  background-position: 50% 50%;
   opacity: 0.85;
 }
 .site-brand-container {
